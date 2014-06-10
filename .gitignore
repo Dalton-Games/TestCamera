@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# UE4 stuff
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
