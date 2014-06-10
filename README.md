@@ -12,5 +12,7 @@ What does actually :
 * Ctrl + W and Ctrl + S control the zoom level. Ctrl+W does zoom in
 * Moving the mouse to the viewport edges, moves the camera
 * Mouse wheel does camera zoom
+* Draging with the right button of the mouse, moves the view
 * Left virtual joystick for mobiles, moves the camera.
+* Camera only collides with invisble walls that limits the play field
 
