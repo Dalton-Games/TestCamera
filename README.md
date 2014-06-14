@@ -13,6 +13,5 @@ What does actually :
 * Mouse wheel does camera zoom
 * Draging with the right button of the mouse, moves the view
 * Left virtual joystick for mobiles, moves the camera.
-* Camera only collides with invisble walls that limits the play field
-* Depth of Field Blur that comes from nearly nothing when the camera is far, to intese effect when the user zooms in
+
 
